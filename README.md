@@ -15,5 +15,4 @@ The planned evaluation process includes collecting original or permission-cleare
 ## Current Status
 Project initiated. Evaluation examples and verified results have not yet been published.
 
-## Focus Areas
-Multilingual AI Evaluation | Turkish-Kurdish Code-Switching | Language Quality Assurance | Regional Language Understanding
+Two initial evaluation tests have been published.
